@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+hyperopt
+torch-1.0.0-cp37-cp37m-win_amd64.whl
+ctgan
